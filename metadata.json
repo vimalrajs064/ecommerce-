@@ -1,0 +1,8 @@
+{
+  "name": "Aethelgard Atelier — Artisanal Goods & Living Store",
+  "description": "Discover curated handcrafted living essentials, leather travel gear, and studio acoustics. Explore our store catalog and the exclusive lifetime benefits of shopping direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
